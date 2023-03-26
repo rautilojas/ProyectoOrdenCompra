@@ -2,8 +2,8 @@ package proyectoOrdenCompra;
 
 public class Cliente {
 	
-	String nombre;
-	String apellido;
+	private String nombre;
+	private String apellido;
 	
 	public String getNombre() {
 		return nombre;

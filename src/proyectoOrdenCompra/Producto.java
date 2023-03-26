@@ -2,9 +2,9 @@ package proyectoOrdenCompra;
 
 public class Producto {
 
-	String fabricante;
-	String nombre;
-	int precio;
+	private String fabricante;
+	private String nombre;
+	private int precio;
 	
 	public Producto(String fabricante, String nombre, int precio) {
 		super();
